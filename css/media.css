@@ -1,0 +1,198 @@
+
+
+
+
+
+
+@media (max-width:1199.99px){
+    .mini_card p{
+        min-height: 330px;
+    }
+}
+
+@media (max-width: 992px){
+    .logo_wrap {
+    }
+    .nav_text ul {
+        display: flex;
+        justify-content: center;
+        list-style: none;
+        align-items: center;
+        padding: 0;
+    }
+    .nav_text ul li a {
+        text-decoration: none;
+        color: #000000;
+        margin: 10px;
+        font-size: 14px;
+        font-weight: 500;
+        text-transform: uppercase;
+    }
+    .hero_text h2 {
+        font-size: 44px;
+    }
+    .head_textbas h2, .form_text h3, .calc_wrap h2, .death_wrap h2{
+        font-size:32px ;
+    }
+    .mini_card{
+        margin: 30px 0;
+    }
+    .form_text {
+        margin-bottom: 50px;
+    }
+    .direct_wrap p {
+        margin-bottom: 40px;
+    }
+    .qoute_image {
+        max-width: 65px;
+        position: absolute;
+        z-index: 0;
+        top: 9%;
+        left: 10%;
+    }
+    .qoute_wrap {
+        margin-bottom: 40px;
+    }
+    .btn_hero{
+        padding: 10px;
+    }
+    .mini_card p {
+        min-height: 100px;
+    }
+
+}
+
+@media (max-width: 767.99px) {
+    .logo_wrap {
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 575.99px){
+    .logo_wrap {
+        text-align: center;
+        background: #00adef;
+        padding: 5px;
+        margin: auto;
+        color: #fff;
+        border-radius: 10px 0 10px 0;
+        margin-bottom: 20px;
+    }
+    .quick_links {
+        display: inherit;
+        text-align: center;
+    }
+    .links_wrap{
+        margin-top: 20px;
+    }
+    .nav_text ul {
+        display: flex;
+        justify-content: center;
+        list-style: none;
+        align-items: center;
+        padding: 0;
+    }
+    .nav_text ul li a {
+        text-decoration: none;
+        color: #000000;
+        margin: 10px;
+        font-size: 14px;
+        font-weight: 500;
+        text-transform: uppercase;
+    }
+    .hero_text h2 {
+        font-size: 44px;
+    }
+    .head_textbas h2, .form_text h3, .calc_wrap h2, .death_wrap h2{
+        font-size:32px ;
+       
+    }
+    .mini_card{
+        margin: 30px 0;
+    }
+    .form_text {
+        margin-bottom: 50px;
+    }
+    .direct_wrap p {
+        margin-bottom: 40px;
+    }
+    .qoute_image {
+        max-width: 65px;
+        position: absolute;
+        z-index: 0;
+        top: 9%;
+        left: 10%;
+    }
+    .qoute_wrap {
+        margin-bottom: 40px;
+    }
+    .hero_text h2 {
+        font-size: 26px;
+    }
+    .head_textbas h2, .form_text h3, .calc_wrap h2, .death_wrap h2 {
+        font-size: 22px;
+        margin-bottom: 30px !important;
+        padding-bottom: 0;
+    }
+    .mini_card {
+        margin-bottom: 25px;
+        margin-top: 0;
+        padding: 25px 16px;
+    }
+    #basler_text {
+        padding: 30px 0;
+    }
+    #finance {
+        padding: 30px 0;
+    }
+    .form_text h5 {
+        font-size: 18px;
+    }
+    p {
+        font-size: 16px !important;
+    }
+    #card {
+        padding: 30px 0;
+    }
+    .over_lay {
+        min-height: 100%;
+    }
+    .card-single {
+        min-height: 100px;
+    }
+    .over_lay a {
+        font-size: 22px;
+    }
+    .card-single.card-4 {
+        margin-bottom: 0;
+    }
+    .height {
+        min-height: 200px;
+        padding: 60px 15px;
+    }
+    .height_death {
+        min-height: auto;
+    }
+    .death_wrap {
+        padding: 30px 15px;
+    }
+    #direct {
+        padding: 40px 15px;
+    }
+    #qoute {
+        margin: 30px 0;
+        padding: 70px 0 0;
+    }
+    .direct_wrap p {
+        margin-bottom: 25px;
+    }
+    .qoute_image {
+        opacity: .3;
+    }
+    .part_text h2 {
+        font-size: 26px;
+    }
+    #our_partner {
+        padding: 30px 0;
+    }
+}
